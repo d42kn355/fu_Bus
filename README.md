@@ -5,4 +5,4 @@ fμ-Bus is a Flat/Filtered Micro Bus meant for small skiffs and cases where just
 
 I have made the Gerber Files available for this project. 
 
-![](documents/fixed.jpg)
+![](fixed.jpg)
